@@ -1,0 +1,806 @@
+Cadets:
+    Abate_James:
+        gender: 'M'
+        platoon: '7'
+        scores:
+            pushups: 20
+            curlups: 56
+            milerun: 7.37
+    Agarwal_Evan:
+        gender: 'M'
+        platoon: '4'
+        scores:
+            pushups: 52
+            curlups: 63
+            milerun: 6.447
+    Aguillar_Gabryel:
+        gender: 'M'
+        platoon: '1'
+        scores:
+            pushups: 40
+            curlups: 102
+            milerun: 7.4
+    Ahern_Angela:
+        gender: 'F'
+        platoon: '4'
+        scores:
+            pushups: 32
+            curlups: 62
+            milerun: 9.15
+    Althof_Sydney:
+        gender: 'F'
+        platoon: '2'
+        scores:
+            pushups: 20
+            curlups: 23
+            milerun: 9.06
+    Anderson_Adrian:
+        gender: 'M'
+        platoon: '7'
+        scores:
+            pushups: e
+            curlups: e
+            milerun: e
+    Andino_Javier:
+        gender: 'M'
+        platoon: '7'
+        scores:
+            pushups: 33
+            curlups: 47
+            milerun: 7.21
+    Angulo_Beatriz:
+        gender: 'F'
+        platoon: '4'
+        scores:
+            pushups: 30
+            curlups: 70
+            milerun: 6.59
+    Antes_Maya:
+        gender: 'F'
+        platoon: '5'
+        scores:
+            pushups: 30
+            curlups: 73
+            milerun: 6.59
+    Ayala_Joan:
+        gender: 'F'
+        platoon: '5'
+        scores:
+            pushups: 30
+            curlups: 55
+            milerun: 10.25
+    Back_Isabella:
+        gender: 'F'
+        platoon: '4'
+        scores:
+            pushups: 51
+            curlups: 146
+            milerun: 6.08
+    Banares_McDaryl:
+        gender: 'M'
+        platoon: '1'
+        scores:
+            pushups: 22
+            curlups: 5
+            milerun: 11.55
+    Bayer_Ryan:
+        gender: 'M'
+        platoon: '2'
+        scores:
+            pushups: 36
+            curlups: 52
+            milerun: 7.17
+    Beauchamp_Matthew:
+        gender: 'M'
+        platoon: '5'
+        scores:
+            pushups: 41
+            curlups: 125
+            milerun: 6.15
+    Benedictos_Roselle:
+        gender: 'F'
+        platoon: '5'
+        scores:
+            pushups: 37
+            curlups: 34
+            milerun: 10.08
+    Blauser_Jacob:
+        gender: 'M'
+        platoon: '5'
+        scores:
+            pushups: 49
+            curlups: 53
+            milerun: 9.27
+    Bridgewater_Shelby:
+        gender: 'F'
+        platoon: '2'
+        scores:
+            pushups: 10
+            curlups: 54
+            milerun: 10.25
+    Brister_Judith:
+        gender: 'F'
+        platoon: '2'
+        scores:
+            pushups: 31
+            curlups: 80
+            milerun: 7.19
+    Brownlee_Adam:
+        gender: 'M'
+        platoon: '5'
+        scores:
+            pushups: 49
+            curlups: 53
+            milerun: 9.27
+    Camillieri_Aubrie:
+        gender: 'F'
+        platoon: '1'
+        scores:
+            pushups: 20
+            curlups: 65
+            milerun: 12.13
+    Camillieri_Vincenzo:
+        gender: 'M'
+        platoon: '2'
+        scores:
+            pushups: 47
+            curlups: 100
+            milerun: 6.52
+    Cartright_Zachary:
+        gender: 'M'
+        platoon: '6'
+        scores:
+            pushups: 53
+            curlups: 56
+            milerun: 7.25
+    Cervantes_Christopher:
+        gender: 'M'
+        platoon: '6'
+        scores:
+            pushups: 40
+            curlups: 72
+            milerun: 7.3
+    Cervantes_Michael:
+        gender: 'M'
+        platoon: '2'
+        scores:
+            pushups: 23
+            curlups: 50
+            milerun: e
+    Chaparro_Swidin:
+        gender: 'F'
+        platoon: '7'
+        scores:
+            pushups: 33
+            curlups: 70
+            milerun: 8.36
+    Cobb_Marshall:
+        gender: 'M'
+        platoon: '6'
+        scores:
+            pushups: 30
+            curlups: 55
+            milerun: 9.23
+    Cook_Jean:
+        gender: 'F'
+        platoon: '6'
+        scores:
+            pushups: 49
+            curlups: 61
+            milerun: 9.03
+    Corbin_Tyler:
+        gender: 'M'
+        platoon: '4'
+        scores:
+            pushups: 50
+            curlups: 81
+            milerun: 6.04
+    Corp_Zoe:
+        gender: 'F'
+        platoon: '2'
+        scores:
+            pushups: 16
+            curlups: 25
+            milerun: 10.01
+    Cruz_Paulo:
+        gender: 'M'
+        platoon: '7'
+        scores:
+            pushups: 4
+            curlups: 70
+            milerun: 12
+    Curtin_Megan:
+        gender: 'F'
+        platoon: '1'
+        scores:
+            pushups: 40
+            curlups: 105
+            milerun: 7.59
+    Daley_Jordan:
+        gender: 'M'
+        platoon: '1'
+        scores:
+            pushups: 30
+            curlups: 75
+            milerun: 8.14
+    Daniels_Howard:
+        gender: 'M'
+        platoon: '6'
+        scores:
+            pushups: 35
+            curlups: 80
+            milerun: 6.47
+    Daniels_Montifore:
+        gender: 'M'
+        platoon: '2'
+        scores:
+            pushups: e
+            curlups: 66
+            milerun: e
+    Davies_Samuel:
+        gender: 'M'
+        platoon: '6'
+        scores:
+            pushups: 20
+            curlups: 54
+            milerun: 6.55
+    Desmond_Kerry:
+        gender: 'F'
+        platoon: '7'
+        scores:
+            pushups: 30
+            curlups: 105
+            milerun: 6.25
+    Duncan_Samantha:
+        gender: 'F'
+        platoon: '2'
+        scores:
+            pushups: 26
+            curlups: 76
+            milerun: 8.4
+    Dunphey_Michael:
+        gender: 'M'
+        platoon: '2'
+        scores:
+            pushups: e
+            curlups: e
+            milerun: e
+    Duran_Aurora:
+        gender: 'F'
+        platoon: '3'
+        scores:
+            pushups: 16
+            curlups: 33
+            milerun: 10.45
+    Espe_Adam:
+        gender: 'M'
+        platoon: '2'
+        scores:
+            pushups: 56
+            curlups: 62
+            milerun: 8.26
+    Fernandez_Sebastian:
+        gender: 'M'
+        platoon: '7'
+        scores:
+            pushups: 22
+            curlups: 90
+            milerun: 6.47
+    Fields_Jordan:
+        gender: 'M'
+        platoon: '7'
+        scores:
+            pushups: e
+            curlups: e
+            milerun: e
+    Fink_Collin:
+        gender: 'M'
+        platoon: '2'
+        scores:
+            pushups: 26
+            curlups: 69
+            milerun: 8.37
+    Fink_Amanda:
+        gender: 'F'
+        platoon: '2'
+        scores:
+            pushups: e
+            curlups: e
+            milerun: e
+    Gallop_Nicholas:
+        gender: 'M'
+        platoon: '5'
+        scores:
+            pushups: 40
+            curlups: 67
+            milerun: 7.35
+    Galvez_Gabriel:
+        gender: 'M'
+        platoon: '7'
+        scores:
+            pushups: 40
+            curlups: 50
+            milerun: 9.27
+    Gantz_Michael:
+        gender: 'M'
+        platoon: '2'
+        scores:
+            pushups: 40
+            curlups: 70
+            milerun: 8.34
+    Glauser_Frank:
+        gender: 'M'
+        platoon: '2'
+        scores:
+            pushups: 43
+            curlups: 100
+            milerun: 10
+    Gonzales_Andres:
+        gender: 'M'
+        platoon: '4'
+        scores:
+            pushups: 29
+            curlups: 58
+            milerun: 6.28
+    Gonzalez_Ivan:
+        gender: 'M'
+        platoon: '3'
+        scores:
+            pushups: 5
+            curlups: 20
+            milerun: 9.16
+    Gonzalez_Pedro:
+        gender: 'M'
+        platoon: '5'
+        scores:
+            pushups: 43
+            curlups: 84
+            milerun: 8.04
+    Harbison_Catlin:
+        gender: 'F'
+        platoon: '4'
+        scores:
+            pushups: 19
+            curlups: 56
+            milerun: 11.15
+    Hardy_Michael:
+        gender: 'M'
+        platoon: '1'
+        scores:
+            pushups: 45
+            curlups: 115
+            milerun: 7.06
+    Hardy_Thomas--:
+        gender: 'M'
+        platoon: '6'
+        scores:
+            pushups: 45
+            curlups: 150
+            milerun: 5.46
+    Heaton_William:
+        gender: 'M'
+        platoon: '2'
+        scores:
+            pushups: 30
+            curlups: 72
+            milerun: 7.29
+    Hubal_Mark:
+        gender: 'M'
+        platoon: '7'
+        scores:
+            pushups: 23
+            curlups: 21
+            milerun: 10.15
+    Hummeldorf_Griffin:
+        gender: 'M'
+        platoon: '3'
+        scores:
+            pushups: 25
+            curlups: 21
+            milerun: 7.35
+    Jones_Christopher:
+        gender: 'M'
+        platoon: '7'
+        scores:
+            pushups: 0
+            curlups: 20
+            milerun: 15
+    Jones_Jordan:
+        gender: 'F'
+        platoon: '1'
+        scores:
+            pushups: 4
+            curlups: 51
+            milerun: 11.59
+    Kaska_Erik:
+        gender: 'M'
+        platoon: '4'
+        scores:
+            pushups: 35
+            curlups: 42
+            milerun: 7.07
+    Keough_Kayla:
+        gender: 'F'
+        platoon: '1'
+        scores:
+            pushups: 40
+            curlups: 74
+            milerun: 8.44
+    Kerfoot_Jordan:
+        gender: 'M'
+        platoon: '1'
+        scores:
+            pushups: e
+            curlups: e
+            milerun: e
+    Kracht_Noah:
+        gender: 'M'
+        platoon: '6'
+        scores:
+            pushups: 54
+            curlups: 91
+            milerun: 7.45
+    Lacefield_Austin:
+        gender: 'M'
+        platoon: '5'
+        scores:
+            pushups: e
+            curlups: e
+            milerun: e
+    Lasala_Jennica:
+        gender: 'F'
+        platoon: '1'
+        scores:
+            pushups: 45
+            curlups: 33
+            milerun: 8.42
+    Laughlin_Morgan:
+        gender: 'M'
+        platoon: '6'
+        scores:
+            pushups: 52
+            curlups: 40
+            milerun: 6.24
+    Law_Kelli:
+        gender: 'F'
+        platoon: '6'
+        scores:
+            pushups: e
+            curlups: e
+            milerun: e
+    Lewis_Connor:
+        gender: 'M'
+        platoon: '3'
+        scores:
+            pushups: 72
+            curlups: 118
+            milerun: 6.32
+    Malone_Madison:
+        gender: 'F'
+        platoon: '7'
+        scores:
+            pushups: 25
+            curlups: 60
+            milerun: 8.37
+    Malong_Christian:
+        gender: 'M'
+        platoon: '3'
+        scores:
+            pushups: 40
+            curlups: 45
+            milerun: 10.3
+    Matthes_Jordan:
+        gender: 'M'
+        platoon: '7'
+        scores:
+            pushups: 55
+            curlups: 33
+            milerun: 10.15
+    Mazzarella_John:
+        gender: 'M'
+        platoon: '6'
+        scores:
+            pushups: 22
+            curlups: 46
+            milerun: e
+    Mcclure_Nathan:
+        gender: 'M'
+        platoon: '6'
+        scores:
+            pushups: 35
+            curlups: 67
+            milerun: 7.35
+    Medved_Carly:
+        gender: 'F'
+        platoon: '4'
+        scores:
+            pushups: 30
+            curlups: 20
+            milerun: 10.25
+    Naser_Lenora:
+        gender: 'F'
+        platoon: '7'
+        scores:
+            pushups: 27
+            curlups: 61
+            milerun: 11.1
+    Newell_Joseph:
+        gender: 'M'
+        platoon: '7'
+        scores:
+            pushups: 23
+            curlups: 26
+            milerun: 9.23
+    Newell_William:
+        gender: 'M'
+        platoon: '4'
+        scores:
+            pushups: 36
+            curlups: 49
+            milerun: 9.16
+    Nilsen_Zoe:
+        gender: 'F'
+        platoon: '6'
+        scores:
+            pushups: 14
+            curlups: 25
+            milerun: 10.4
+    Olmo_Nicholas:
+        gender: 'M'
+        platoon: '6'
+        scores:
+            pushups: 17
+            curlups: 21
+            milerun: 12
+    On-Moore_Kristen:
+        gender: 'F'
+        platoon: '3'
+        scores:
+            pushups: 20
+            curlups: 63
+            milerun: 10.52
+    Ortiz_Felipe:
+        gender: 'M'
+        platoon: '6'
+        scores:
+            pushups: 36
+            curlups: 47
+            milerun: 10.39
+    Painter_Marrina:
+        gender: 'F'
+        platoon: '6'
+        scores:
+            pushups: e
+            curlups: 90
+            milerun: e
+    Pamatz_Yuvian:
+        gender: 'F'
+        platoon: '2'
+        scores:
+            pushups: 12
+            curlups: 23
+            milerun: 7.4
+    Pettit_Andrew:
+        gender: 'M'
+        platoon: '5'
+        scores:
+            pushups: 34
+            curlups: 50
+            milerun: 7.04
+    Polk_Chase:
+        gender: 'M'
+        platoon: '4'
+        scores:
+            pushups: 51
+            curlups: 46
+            milerun: 6.22
+    Redford_Morgan:
+        gender: 'F'
+        platoon: '7'
+        scores:
+            pushups: 41
+            curlups: 104
+            milerun: 8
+    Reynolds_Dayton:
+        gender: 'M'
+        platoon: '5'
+        scores:
+            pushups: 35
+            curlups: 85
+            milerun: 7.34
+    Ricks_Carson:
+        gender: 'F'
+        platoon: '5'
+        scores:
+            pushups: 25
+            curlups: 60
+            milerun: 9
+    Ronis--Von--Helms_Esme:
+        gender: 'F'
+        platoon: '3'
+        scores:
+            pushups: 14
+            curlups: 39
+            milerun: 11.48
+    Rosen_Madelyn:
+        gender: 'F'
+        platoon: '5'
+        scores:
+            pushups: 29
+            curlups: 60
+            milerun: 7.54
+    Roy_Emil:
+        gender: 'F'
+        platoon: '3'
+        scores:
+            pushups: 11
+            curlups: 19
+            milerun: 11.37
+    Schmid_Allie:
+        gender: 'F'
+        platoon: '4'
+        scores:
+            pushups: 30
+            curlups: 110
+            milerun: 8.1
+    Schmid_Joshua:
+        gender: 'M'
+        platoon: '5'
+        scores:
+            pushups: 50
+            curlups: 76
+            milerun: 8.07
+    Sourbeer_Jay:
+        gender: 'M'
+        platoon: '2'
+        scores:
+            pushups: 50
+            curlups: 76
+            milerun: 5.42
+    Sturm_August:
+        gender: 'M'
+        platoon: '7'
+        scores:
+            pushups: x
+            curlups: x
+            milerun: x
+    Sturm_Ella:
+        gender: 'F'
+        platoon: '5'
+        scores:
+            pushups: e
+            curlups: e
+            milerun: e
+    Summers_Cole:
+        gender: 'M'
+        platoon: '4'
+        scores:
+            pushups: 100
+            curlups: 98
+            milerun: 6
+    Summers_Jordan:
+        gender: 'M'
+        platoon: '2'
+        scores:
+            pushups: 51
+            curlups: 54
+            milerun: 6.58
+    Sutton_Magean:
+        gender: 'F'
+        platoon: '1'
+        scores:
+            pushups: 26
+            curlups: 50
+            milerun: 7.49
+    Taylor_Christian--:
+        gender: 'M'
+        platoon: '3'
+        scores:
+            pushups: 27
+            curlups: 50
+            milerun: 7.48
+    Tobia_Nicholas--:
+        gender: 'M'
+        platoon: '7'
+        scores:
+            pushups: 28
+            curlups: 68
+            milerun: 8.39
+    Udell_Lauren:
+        gender: 'F'
+        platoon: '4'
+        scores:
+            pushups: 40
+            curlups: 57
+            milerun: 9.22
+    Uribe_Raphael:
+        gender: 'M'
+        platoon: '6'
+        scores:
+            pushups: 59
+            curlups: 149
+            milerun: 6.49
+    Van--Hoy_Austin:
+        gender: 'M'
+        platoon: '1'
+        scores:
+            pushups: 51
+            curlups: 60
+            milerun: 7.34
+    Vertel_Emily:
+        gender: 'F'
+        platoon: '4'
+        scores:
+            pushups: 53
+            curlups: 64
+            milerun: 9.11
+    Villamor_Darylcasey:
+        gender: 'F'
+        platoon: '6'
+        scores:
+            pushups: 40
+            curlups: 54
+            milerun: 8.32
+    Wang_Zheng--Xin:
+        gender: 'F'
+        platoon: '5'
+        scores:
+            pushups: 59
+            curlups: 123
+            milerun: 6.53
+    Warlick_Carley:
+        gender: 'F'
+        platoon: '3'
+        scores:
+            pushups: 30
+            curlups: 80
+            milerun: 7.57
+    Warlick_Chance:
+        gender: 'M'
+        platoon: '5'
+        scores:
+            pushups: 21
+            curlups: 36
+            milerun: 12.4
+    Weaver_William--:
+        gender: 'M'
+        platoon: '4'
+        scores:
+            pushups: 40
+            curlups: 58
+            milerun: 6.04
+    Weiss_Adam:
+        gender: 'M'
+        platoon: '3'
+        scores:
+            pushups: 45
+            curlups: 108
+            milerun: 7.27
+    Woodson_Caleb:
+        gender: 'M'
+        platoon: '1'
+        scores:
+            pushups: 45
+            curlups: 75
+            milerun: 6.55
+    Woodson_Tess:
+        gender: 'F'
+        platoon: '2'
+        scores:
+            pushups: 26
+            curlups: 61
+            milerun: 8.14
+    Wright_Aaron--:
+        gender: 'M'
+        platoon: '3'
+        scores:
+            pushups: 42
+            curlups: 30
+            milerun: 6.25
+    Xallen_Ahmad:
+        gender: 'M'
+        platoon: '1'
+        scores:
+            pushups: 38
+            curlups: 54
+            milerun: 7.34

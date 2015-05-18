@@ -1,0 +1,1002 @@
+Cadets:
+  Abate_James:
+    platoon: '7'
+    gender: M
+    scores:
+      curlups: 56
+      pushups: 20
+      milerun: 7.37
+      academicpoints: 15
+  Agarwal_Evan:
+    platoon: '4'
+    gender: M
+    scores:
+      curlups: 63
+      pushups: 52
+      milerun: 6.44
+      academicpoints: 20
+  Aguillar_Gabryel:
+    platoon: '1'
+    gender: M
+    scores:
+      curlups: 102
+      pushups: 40
+      milerun: 7.4
+      academicpoints: 14
+  Ahern_Angela:
+    platoon: '4'
+    gender: F
+    scores:
+      curlups: 62
+      pushups: 32
+      milerun: 9.15
+      academicpoints: 17
+  Althof_Sydney:
+    platoon: '2'
+    gender: F
+    scores:
+      curlups: 23
+      pushups: 20
+      milerun: 9.06
+      academicpoints: 15
+  Anderson_Adrian:
+    platoon: '7'
+    gender: M
+    scores:
+      curlups: -2
+      pushups: -2
+      milerun: -2.0
+      academicpoints: 12
+  Andino_Javier:
+    platoon: '7'
+    gender: M
+    scores:
+      curlups: 47
+      pushups: 33
+      milerun: 7.21
+      academicpoints: 19
+  Angulo_Beatriz:
+    platoon: '4'
+    gender: F
+    scores:
+      curlups: 70
+      pushups: 30
+      milerun: 6.59
+      academicpoints: 20
+  Antes_Maya:
+    platoon: '5'
+    gender: F
+    scores:
+      curlups: 73
+      pushups: 30
+      milerun: 6.59
+      academicpoints: 20
+  Ayala_Joan:
+    platoon: '5'
+    gender: F
+    scores:
+      curlups: 55
+      pushups: 30
+      milerun: 10.25
+      academicpoints: 20
+  Back_Isabella:
+    platoon: '4'
+    gender: F
+    scores:
+      curlups: 146
+      pushups: 51
+      milerun: 6.08
+      academicpoints: 20
+  Banares_McDaryl:
+    platoon: '1'
+    gender: M
+    scores:
+      curlups: 5
+      pushups: 22
+      milerun: 11.55
+      academicpoints: 18
+  Bayer_Ryan:
+    platoon: '2'
+    gender: M
+    scores:
+      curlups: 52
+      pushups: 36
+      milerun: 7.17
+      academicpoints: 20
+  Beauchamp_Matthew:
+    platoon: '5'
+    gender: M
+    scores:
+      curlups: 125
+      pushups: 41
+      milerun: 6.15
+      academicpoints: 18
+  Benedictos_Roselle:
+    platoon: '5'
+    gender: F
+    scores:
+      curlups: 34
+      pushups: 37
+      milerun: 10.08
+      academicpoints: 18
+  Blauser_Jacob:
+    platoon: '5'
+    gender: M
+    scores:
+      curlups: 53
+      pushups: 49
+      milerun: 9.27
+      academicpoints: 20
+  Bridgewater_Shelby:
+    platoon: '2'
+    gender: F
+    scores:
+      curlups: 54
+      pushups: 10
+      milerun: 10.25
+      academicpoints: 20
+  Brister_Judith:
+    platoon: '2'
+    gender: F
+    scores:
+      curlups: 80
+      pushups: 31
+      milerun: 7.19
+      academicpoints: 20
+  Brownlee_Adam:
+    platoon: '5'
+    gender: M
+    scores:
+      curlups: 53
+      pushups: 49
+      milerun: 9.27
+      academicpoints: 17
+  Camillieri_Aubrie:
+    platoon: '1'
+    gender: F
+    scores:
+      curlups: 65
+      pushups: 20
+      milerun: 12.13
+      academicpoints: 17
+  Camillieri_Vincenzo:
+    platoon: '2'
+    gender: M
+    scores:
+      curlups: 100
+      pushups: 47
+      milerun: 6.52
+      academicpoints: 14
+  Cartright_Zachary:
+    platoon: '6'
+    gender: M
+    scores:
+      curlups: 56
+      pushups: 53
+      milerun: 7.25
+      academicpoints: 10
+  Cervantes_Christopher:
+    platoon: '6'
+    gender: M
+    scores:
+      curlups: 72
+      pushups: 40
+      milerun: 7.3
+      academicpoints: 20
+  Cervantes_Michael:
+    platoon: '2'
+    gender: M
+    scores:
+      curlups: 50
+      pushups: 23
+      milerun: -2.0
+      academicpoints: 20
+  Chaparro_Swidin:
+    platoon: '7'
+    gender: F
+    scores:
+      curlups: 70
+      pushups: 33
+      milerun: 8.36
+      academicpoints: 20
+  Cobb_Marshall:
+    platoon: '6'
+    gender: M
+    scores:
+      curlups: 55
+      pushups: 30
+      milerun: 9.23
+      academicpoints: 20
+  Cook_Jean:
+    platoon: '6'
+    gender: F
+    scores:
+      curlups: 61
+      pushups: 49
+      milerun: 9.03
+      academicpoints: 20
+  Corbin_Tyler:
+    platoon: '4'
+    gender: M
+    scores:
+      curlups: 81
+      pushups: 50
+      milerun: 6.04
+      academicpoints: 20
+  Corp_Zoe:
+    platoon: '2'
+    gender: F
+    scores:
+      curlups: 25
+      pushups: 16
+      milerun: 10.01
+      academicpoints: 20
+  Cruz_Paulo:
+    platoon: '7'
+    gender: M
+    scores:
+      curlups: 70
+      pushups: 4
+      milerun: 12.0
+      academicpoints: 20
+  Curtin_Megan:
+    platoon: '1'
+    gender: F
+    scores:
+      curlups: 105
+      pushups: 40
+      milerun: 7.59
+      academicpoints: 20
+  Daley_Jordan:
+    platoon: '1'
+    gender: M
+    scores:
+      curlups: 75
+      pushups: 30
+      milerun: 8.14
+      academicpoints: 20
+  Daniels_Howard:
+    platoon: '6'
+    gender: M
+    scores:
+      curlups: 80
+      pushups: 35
+      milerun: 6.47
+      academicpoints: 20
+  Daniels_Montifore:
+    platoon: '2'
+    gender: M
+    scores:
+      curlups: 66
+      pushups: -2
+      milerun: -2.0
+      academicpoints: 20
+  Davies_Samuel:
+    platoon: '6'
+    gender: M
+    scores:
+      curlups: 54
+      pushups: 20
+      milerun: 6.55
+      academicpoints: 20
+  Desmond_Kerry:
+    platoon: '7'
+    gender: F
+    scores:
+      curlups: 105
+      pushups: 30
+      milerun: 6.25
+      academicpoints: 20
+  Duncan_Samantha:
+    platoon: '2'
+    gender: F
+    scores:
+      curlups: 76
+      pushups: 26
+      milerun: 8.4
+      academicpoints: 20
+  Dunphey_Michael:
+    platoon: '2'
+    gender: M
+    scores:
+      curlups: -2
+      pushups: -2
+      milerun: -2.0
+      academicpoints: 20
+  Duran_Aurora:
+    platoon: '3'
+    gender: F
+    scores:
+      curlups: 33
+      pushups: 16
+      milerun: 10.45
+      academicpoints: 20
+  Espe_Adam:
+    platoon: '2'
+    gender: M
+    scores:
+      curlups: 62
+      pushups: 56
+      milerun: 8.26
+      academicpoints: 20
+  Fernandez_Sebastian:
+    platoon: '8'
+    gender: M
+    scores:
+      curlups: 90
+      pushups: 22
+      milerun: 6.47
+      academicpoints: 20
+  Fields_Jordan:
+    platoon: '7'
+    gender: M
+    scores:
+      curlups: -2
+      pushups: -2
+      milerun: -2.0
+      academicpoints: 20
+  Fink_Collin:
+    platoon: '2'
+    gender: M
+    scores:
+      curlups: 69
+      pushups: 26
+      milerun: 8.37
+      academicpoints: 20
+  Fink_Amanda:
+    platoon: '2'
+    gender: F
+    scores:
+      curlups: -2
+      pushups: -2
+      milerun: -2.0
+      academicpoints: 20
+  Gallop_Nicholas:
+    platoon: '5'
+    gender: M
+    scores:
+      curlups: 67
+      pushups: 40
+      milerun: 7.35
+      academicpoints: 20
+  Galvez_Gabriel:
+    platoon: '7'
+    gender: M
+    scores:
+      curlups: 50
+      pushups: 40
+      milerun: 9.27
+      academicpoints: 20
+  Gantz_Michael:
+    platoon: '2'
+    gender: M
+    scores:
+      curlups: 70
+      pushups: 40
+      milerun: 8.34
+      academicpoints: 20
+  Glauser_Frank:
+    platoon: '2'
+    gender: M
+    scores:
+      curlups: 100
+      pushups: 43
+      milerun: 10.0
+      academicpoints: 20
+  Gonzales_Andres:
+    platoon: '4'
+    gender: M
+    scores:
+      curlups: 58
+      pushups: 29
+      milerun: 6.28
+      academicpoints: 20
+  Gonzalez_Ivan:
+    platoon: '3'
+    gender: M
+    scores:
+      curlups: 20
+      pushups: 5
+      milerun: 9.16
+      academicpoints: 20
+  Gonzalez_Pedro:
+    platoon: '5'
+    gender: M
+    scores:
+      curlups: 84
+      pushups: 43
+      milerun: 8.04
+      academicpoints: 20
+  Harbison_Catlin:
+    platoon: '4'
+    gender: F
+    scores:
+      curlups: 56
+      pushups: 19
+      milerun: 11.15
+      academicpoints: 20
+  Hardy_Michael:
+    platoon: '1'
+    gender: M
+    scores:
+      curlups: 115
+      pushups: 45
+      milerun: 7.06
+      academicpoints: 20
+  Hardy_Thomas:
+    platoon: '6'
+    gender: M
+    scores:
+      curlups: 150
+      pushups: 45
+      milerun: 5.46
+      academicpoints: 20
+  Heaton_William:
+    platoon: '2'
+    gender: M
+    scores:
+      curlups: 72
+      pushups: 30
+      milerun: 7.29
+      academicpoints: 20
+  Hubal_Mark:
+    platoon: '7'
+    gender: M
+    scores:
+      curlups: 21
+      pushups: 23
+      milerun: 10.15
+      academicpoints: 20
+  Hummeldorf_Griffin:
+    platoon: '3'
+    gender: M
+    scores:
+      curlups: 21
+      pushups: 25
+      milerun: 7.35
+      academicpoints: 20
+  Jones_Christopher:
+    platoon: '7'
+    gender: M
+    scores:
+      curlups: 20
+      pushups: 0
+      milerun: 15.0
+      academicpoints: 20
+  Jones_Jordan:
+    platoon: '1'
+    gender: F
+    scores:
+      curlups: 51
+      pushups: 4
+      milerun: 11.59
+      academicpoints: 20
+  Kaska_Erik:
+    platoon: '4'
+    gender: M
+    scores:
+      curlups: 42
+      pushups: 35
+      milerun: 7.07
+      academicpoints: 20
+  Keough_Kayla:
+    platoon: '1'
+    gender: F
+    scores:
+      curlups: 74
+      pushups: 40
+      milerun: 8.44
+      academicpoints: 20
+  Kerfoot_Jordan:
+    platoon: '1'
+    gender: M
+    scores:
+      curlups: -2
+      pushups: -2
+      milerun: -2.0
+      academicpoints: 20
+  Kracht_Noah:
+    platoon: '6'
+    gender: M
+    scores:
+      curlups: 91
+      pushups: 54
+      milerun: 7.45
+      academicpoints: 20
+  Lacefield_Austin:
+    platoon: '5'
+    gender: M
+    scores:
+      curlups: -2
+      pushups: -2
+      milerun: -2.0
+      academicpoints: 20
+  Lasala_Jennica:
+    platoon: '1'
+    gender: F
+    scores:
+      curlups: 33
+      pushups: 45
+      milerun: 8.42
+      academicpoints: 20
+  Laughlin_Morgan:
+    platoon: '6'
+    gender: M
+    scores:
+      curlups: 40
+      pushups: 52
+      milerun: 6.24
+      academicpoints: 20
+  Law_Kelli:
+    platoon: '6'
+    gender: F
+    scores:
+      curlups: -2
+      pushups: -2
+      milerun: -2.0
+      academicpoints: 20
+  Lewis_Connor:
+    platoon: '3'
+    gender: M
+    scores:
+      curlups: 118
+      pushups: 72
+      milerun: 6.32
+      academicpoints: 20
+  Malone_Madison:
+    platoon: '7'
+    gender: F
+    scores:
+      curlups: 60
+      pushups: 25
+      milerun: 8.37
+      academicpoints: 20
+  Malong_Christian:
+    platoon: '3'
+    gender: M
+    scores:
+      curlups: 45
+      pushups: 40
+      milerun: 10.3
+      academicpoints: 20
+  Matthes_Jordan:
+    platoon: '7'
+    gender: M
+    scores:
+      curlups: 33
+      pushups: 55
+      milerun: 10.15
+      academicpoints: 20
+  Mazzarella_John:
+    platoon: '6'
+    gender: M
+    scores:
+      curlups: 46
+      pushups: 22
+      milerun: -2.0
+      academicpoints: 20
+  Mcclure_Nathan:
+    platoon: '6'
+    gender: M
+    scores:
+      curlups: 67
+      pushups: 35
+      milerun: 7.35
+      academicpoints: 20
+  Medved_Carly:
+    platoon: '4'
+    gender: F
+    scores:
+      curlups: 20
+      pushups: 30
+      milerun: 10.25
+      academicpoints: 20
+  Naser_Lenora:
+    platoon: '7'
+    gender: F
+    scores:
+      curlups: 61
+      pushups: 27
+      milerun: 11.1
+      academicpoints: 20
+  Newell_Joseph:
+    platoon: '7'
+    gender: M
+    scores:
+      curlups: 26
+      pushups: 23
+      milerun: 9.23
+      academicpoints: 20
+  Newell_William:
+    platoon: '4'
+    gender: M
+    scores:
+      curlups: 49
+      pushups: 36
+      milerun: 9.16
+      academicpoints: 20
+  Nilsen_Zoe:
+    platoon: '6'
+    gender: F
+    scores:
+      curlups: 25
+      pushups: 14
+      milerun: 10.4
+      academicpoints: 20
+  Olmo_Nicholas:
+    platoon: '6'
+    gender: M
+    scores:
+      curlups: 21
+      pushups: 17
+      milerun: 12.0
+      academicpoints: 20
+  On-Moore_Kristen:
+    platoon: '3'
+    gender: F
+    scores:
+      curlups: 63
+      pushups: 20
+      milerun: 10.52
+      academicpoints: 20
+  Ortiz_Felipe:
+    platoon: '6'
+    gender: M
+    scores:
+      curlups: 47
+      pushups: 36
+      milerun: 10.39
+      academicpoints: 20
+  Painter_Marrina:
+    platoon: '6'
+    gender: F
+    scores:
+      curlups: 90
+      pushups: -2
+      milerun: -2.0
+      academicpoints: 20
+  Pamatz_Yuvian:
+    platoon: '2'
+    gender: F
+    scores:
+      curlups: 23
+      pushups: 12
+      milerun: 7.4
+      academicpoints: 20
+  Pettit_Andrew:
+    platoon: '5'
+    gender: M
+    scores:
+      curlups: 50
+      pushups: 34
+      milerun: 7.04
+      academicpoints: 20
+  Polk_Chase:
+    platoon: '4'
+    gender: M
+    scores:
+      curlups: 46
+      pushups: 51
+      milerun: 6.22
+      academicpoints: 20
+  Redford_Morgan:
+    platoon: '7'
+    gender: F
+    scores:
+      curlups: 104
+      pushups: 41
+      milerun: 8.0
+      academicpoints: 20
+  Reynolds_Dayton:
+    platoon: '5'
+    gender: M
+    scores:
+      curlups: 85
+      pushups: 35
+      milerun: 7.34
+      academicpoints: 20
+  Ricks_Carson:
+    platoon: '5'
+    gender: F
+    scores:
+      curlups: 60
+      pushups: 25
+      milerun: 9.0
+      academicpoints: 20
+  Ronis Von Helms_Esme:
+    platoon: '3'
+    gender: F
+    scores:
+      curlups: 39
+      pushups: 14
+      milerun: 11.48
+      academicpoints: 20
+  Rosen_Madelyn:
+    platoon: '5'
+    gender: F
+    scores:
+      curlups: 60
+      pushups: 29
+      milerun: 7.54
+      academicpoints: 20
+  Roy_Emil:
+    platoon: '3'
+    gender: F
+    scores:
+      curlups: 19
+      pushups: 11
+      milerun: 11.37
+      academicpoints: 20
+  Schmid_Allie:
+    platoon: '4'
+    gender: F
+    scores:
+      curlups: 110
+      pushups: 30
+      milerun: 8.1
+      academicpoints: 20
+  Schmid_Joshua:
+    platoon: '5'
+    gender: M
+    scores:
+      curlups: 76
+      pushups: 50
+      milerun: 8.07
+      academicpoints: 20
+  Sourbeer_Jay:
+    platoon: '2'
+    gender: M
+    scores:
+      curlups: 76
+      pushups: 50
+      milerun: 5.42
+      academicpoints: 20
+  Sturm_August:
+    platoon: '7'
+    gender: M
+    scores:
+      curlups: -2
+      pushups: -2
+      milerun: -2.0
+      academicpoints: 20
+  Sturm_Ella:
+    platoon: '5'
+    gender: F
+    scores:
+      curlups: -2
+      pushups: -2
+      milerun: -2.0
+      academicpoints: 20
+  Summers_Cole:
+    platoon: '4'
+    gender: M
+    scores:
+      curlups: 98
+      pushups: 100
+      milerun: 6.0
+      academicpoints: 20
+  Summers_Jordan:
+    platoon: '2'
+    gender: M
+    scores:
+      curlups: 54
+      pushups: 51
+      milerun: 6.58
+      academicpoints: 20
+  Sutton_Magean:
+    platoon: '1'
+    gender: F
+    scores:
+      curlups: 50
+      pushups: 26
+      milerun: 7.49
+      academicpoints: 20
+  Taylor_Christian:
+    platoon: '3'
+    gender: M
+    scores:
+      curlups: 50
+      pushups: 27
+      milerun: 7.48
+      academicpoints: 20
+  Tobia_Nicholas:
+    platoon: '7'
+    gender: M
+    scores:
+      curlups: 68
+      pushups: 28
+      milerun: 8.39
+      academicpoints: 20
+  Udell_Lauren:
+    platoon: '4'
+    gender: F
+    scores:
+      curlups: 57
+      pushups: 40
+      milerun: 9.22
+      academicpoints: 20
+  Uribe_Raphael:
+    platoon: '6'
+    gender: M
+    scores:
+      curlups: 149
+      pushups: 59
+      milerun: 6.49
+      academicpoints: 20
+  Van Hoy_Austin:
+    platoon: '1'
+    gender: M
+    scores:
+      curlups: 60
+      pushups: 51
+      milerun: 7.34
+      academicpoints: 20
+  Vertel_Emily:
+    platoon: '4'
+    gender: F
+    scores:
+      curlups: 64
+      pushups: 53
+      milerun: 9.11
+      academicpoints: 20
+  Villamor_Darylcasey:
+    platoon: '6'
+    gender: F
+    scores:
+      curlups: 54
+      pushups: 40
+      milerun: 8.32
+      academicpoints: 20
+  Wang_Zheng Xin:
+    platoon: '5'
+    gender: F
+    scores:
+      curlups: 123
+      pushups: 59
+      milerun: 6.53
+      academicpoints: 20
+  Warlick_Carley:
+    platoon: '3'
+    gender: F
+    scores:
+      curlups: 80
+      pushups: 30
+      milerun: 7.57
+      academicpoints: 20
+  Warlick_Chance:
+    platoon: '5'
+    gender: M
+    scores:
+      curlups: 36
+      pushups: 21
+      milerun: 12.4
+      academicpoints: 20
+  Weaver_William:
+    platoon: '4'
+    gender: M
+    scores:
+      curlups: 58
+      pushups: 40
+      milerun: 6.04
+      academicpoints: 20
+  Weiss_Adam:
+    platoon: '3'
+    gender: M
+    scores:
+      curlups: 108
+      pushups: 45
+      milerun: 7.27
+      academicpoints: 20
+  Woodson_Caleb:
+    platoon: '1'
+    gender: M
+    scores:
+      curlups: 75
+      pushups: 45
+      milerun: 6.55
+      academicpoints: 20
+  Woodson_Tess:
+    platoon: '2'
+    gender: F
+    scores:
+      curlups: 61
+      pushups: 26
+      milerun: 8.14
+      academicpoints: 20
+  Wright_Aaron:
+    platoon: '3'
+    gender: M
+    scores:
+      curlups: 30
+      pushups: 42
+      milerun: 6.25
+      academicpoints: 20
+  Xallen_Ahmad:
+    platoon: '1'
+    gender: M
+    scores:
+      curlups: 54
+      pushups: 38
+      milerun: 7.34
+      academicpoints: 20
+  Taylor_Christian':
+    platoon: '3'
+    gender: M
+    scores:
+      curlups: 50
+      pushups: 27
+      milerun: 7.48
+      academicpoints: 20
+  Wright_Aaron':
+    platoon: '3'
+    gender: M
+    scores:
+      curlups: 30
+      pushups: 42
+      milerun: 6.25
+      academicpoints: 20
+  Weaver_William':
+    platoon: '4'
+    gender: M
+    scores:
+      curlups: 58
+      pushups: 40
+      milerun: 6.04
+      academicpoints: 20
+  LAST_FIRST:
+    platoon: E
+    gender: M
+    scores:
+      curlups: 12
+      pushups: 23
+      milerun: 23.22
+      academicpoints: 1
+Platoons:
+  First:
+    colorguard: 1
+    drill: 1
+    identifier: '1'
+  Second:
+    colorguard: 2
+    drill: 2
+    identifier: '2'
+  Third:
+    colorguard: 3
+    drill: 3
+    identifier: '3'
+  Fourth:
+    colorguard: 4
+    drill: 4
+    identifier: '4'
+  Fifth:
+    colorguard: 5
+    drill: 5
+    identifier: '5'
+  Sixth:
+    colorguard: 6
+    drill: 6
+    identifier: '6'
+  Seventh:
+    colorguard: 7
+    drill: 7
+    identifier: '7'
+  Eigth:
+    colorguard: 8
+    drill: 8
+    identifier: '8'
+  Extra:
+    colorguard: 8
+    drill: 8
+    identifier: E
+GeneralInfo:
+  pointsawarded:
+    '1': 14
+    '2': 11
+    '3': 8
+    '4': 6
+    '5': 4
+    '6': 3
+    '7': 2
+    '8': 2
+    '9': 0
+  maxacademicpoints: 20
